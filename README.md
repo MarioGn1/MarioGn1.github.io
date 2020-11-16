@@ -1,1 +1,1 @@
-# Login page using firebas and simple content.
+# Login page using firebase and simple content.
